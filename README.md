@@ -83,5 +83,5 @@ Since this repo contains multiple independent projects, you must navigate to the
   <h3>🛠 Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,git,vscode" />
   <br><br>
-  <sub>Built with ❤️ by <a href="https://github.com/your-username">Your Name</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/shuvronil1406">Shuvronil Ganguly</a></sub>
 </div>
